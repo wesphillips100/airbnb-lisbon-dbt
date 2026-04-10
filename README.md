@@ -1,2 +1,1 @@
-# analytics-engineering-portfolio
-My portfolio for analytics engineering related projects
+# airbnb lisbon portugal dbt project
